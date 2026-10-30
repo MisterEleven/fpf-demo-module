@@ -1,0 +1,6 @@
+title = "Module title"
+
+[feedback]
+object = "feedback-main"
+question = "How was it?"
+label = "Rate this talk"

@@ -1,0 +1,10 @@
+[objects.stride-01]
+kind = "choice"
+multi = false
+opens = "on-slide"
+tally = "public"
+
+[objects.feedback-main]
+kind = "rating"
+text_field = "optional"
+opens = "from-last-slide"
